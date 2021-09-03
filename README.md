@@ -2,5 +2,5 @@
 Ein Umpfangreuches Plugin
 
 Noch erledigen:
-   Heal command - corawi
-   Position command - 
+Heal command - corawi
+Position command - 
