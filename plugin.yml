@@ -1,0 +1,11 @@
+name: All
+version: 2.0
+main: All.All
+api-version: 1.17
+author: WeihnachtsmannYT
+commands:
+  timer:
+    permission: utils
+  gm:
+  gamemode:
+  fly:
