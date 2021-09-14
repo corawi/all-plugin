@@ -1,5 +1,5 @@
 # all-plugin
-Ein Umpfangreuches Plugin
+Ein Umpfangreiches Plugin
 
 Noch erledigen:
 Heal command - corawi
